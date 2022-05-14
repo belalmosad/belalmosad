@@ -27,7 +27,8 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px">
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belalmosad&layout=compact&theme=dark)](https://github.com/belalmosad/github-readme-stats)
+ ### ⚡ Most used Languages:
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belalmosad&layout=compact&theme=tokyonight)](https://github.com/belalmosad/github-readme-stats)
 
 </p>
 <!---
