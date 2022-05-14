@@ -28,7 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px">
  
  ### ⚡ Most used Languages:
- <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belalmosad&layout=compact&theme=tokyonight)](https://github.com/belalmosad/github-readme-stats)</P>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belalmosad&layout=compact&theme=tokyonight)](https://github.com/belalmosad/github-readme-stats)
 
 </p>
 <!---
