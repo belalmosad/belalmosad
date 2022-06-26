@@ -12,7 +12,6 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/belal-elmeligy-ba484316b/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin.svg" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.linkedin.com/in/belal-elmeligy-ba484316b/" target="_blank"> <img src="[https://github.com/gilbarbara/logos/blob/master/logos/linkedin.svg](https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg)" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ### 🧰 Languages and Tools:
