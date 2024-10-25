@@ -1,9 +1,9 @@
 # Welcome 👋, I am Belal Elmeligy. 
-### A Graduate software engineer who is aspiring to become highly skilled in Software Engineering and computer science by learning and practicing to get better.
+### A software engineer who is aspiring to become highly skilled in Software Engineering and computer science by learning and practicing to get better.
 ![](https://visitor-badge.laobi.icu/badge?page_id=belalmosad.belalmosad)
 <hr>
 
-### 🎓 I've recently got a B.S. degree in Computer Engineering.
+### 🎓 I've B.S. degree in Computer Engineering.
 
 ### 👀 I’m interested in learning cutting edge technologies and try out using new tools.
 
